@@ -31,3 +31,21 @@
 # str = "karan give me 100$ and i spend 50$ in gas and 15$ in toll and 35$ in hotel"
 
 # print (str.count("$")) ans 5
+
+# num = 22
+# num1 = "22"
+# sum= num+num1
+# print(sum)
+
+#  str="school"
+#length of str - len(str)    ending -1
+str="pana Colleges"
+# print(len(str))
+#slice
+#  accessing parts of a string  str[starting_ind : end
+# print(str[ : 6])
+# print(str[1: ])
+# str.endswith("s")
+
+
+print(str.find("na"))

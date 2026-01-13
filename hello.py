@@ -1,4 +1,4 @@
-print("hello world ! ")
+# print("hello world ! ")
 
 # Q.1- print the sum of two number by taking input
 
@@ -9,6 +9,19 @@ print("hello world ! ")
 
 #Q.2 enter the side of squre and give and area
 
-side = int(input("Enter the side of square: "))
+# side = int(input("Enter the side of square: "))
 
-print("Area of Square is:",side ** 2)
+# print("Area of Square is:",side ** 2)
+
+
+# name = "nitin"
+# print(name)
+
+# # age = 2**2
+
+#  num = 10 
+#  num = num + 10
+#  n= 10
+
+name = int(input("Enter you age"))
+print(type(name))

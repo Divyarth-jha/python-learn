@@ -22,11 +22,39 @@
 #     print("not a palamdro")    
 
 
-grade=("A", "A", "D", "D", "A" ,"B" ,"B", "C","D" ,"C", "B")
-print(grade.count("A"))
-print(type(grade))
+# grade=("A", "A", "D", "D", "A" ,"B" ,"B", "C","D" ,"C", "B")
+# print(grade.count("A"))
+# print(type(grade))
 
 
-grade1=["A", "A", "D", "D", "A" ,"B" ,"B", "C","D" ,"C", "B"]
-grade1.sort()
-print(grade1)
+# grade1=["A", "A", "D", "D", "A" ,"B" ,"B", "C","D" ,"C", "B"]
+# grade1.sort()
+# print(grade1)
+
+
+# list4 = ["nitin",84,"pihu"];
+# print(list4)
+
+
+# student = input("enter your name : ")
+# student_id = int(input("enter your id : "))
+
+# print(type(student))
+# print(type(student_id))
+
+# my_list = list(map(int, input("enter number : ").split()))
+# print(my_list)
+
+# my_list = input("Enter words: ").split()
+# print(my_list)
+
+
+n = int(input("How many elements: "))
+my_list = []
+for i in range(n):
+    value = int(input("Enter element: "))
+    my_list.append(value)
+
+print(my_list)
+
+
