@@ -27,7 +27,7 @@
 # print(type(grade))
 
 
-# grade1=["A", "A", "D", "D", "A" ,"B" ,"B", "C","D" ,"C", "B"]
+grade1=["A", "A", "D", "D", "A" ,"B" ,"B", "C","D" ,"C", "B"]
 # grade1.sort()
 # print(grade1)
 
@@ -49,12 +49,18 @@
 # print(my_list)
 
 
-n = int(input("How many elements: "))
-my_list = []
-for i in range(n):
-    value = int(input("Enter element: "))
-    my_list.append(value)
+# n = int(input("How many elements: "))
+# my_list = []
+# for i in range(n):
+#     value = int(input("Enter element: "))
+#     my_list.append(value)
 
-print(my_list)
+# print(my_list)
+
+tup1=(7,)
+
+tup= (10,30,40,50,60)
+
+print(tup[-1])
 
 
