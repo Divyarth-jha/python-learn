@@ -23,5 +23,11 @@
 #  num = num + 10
 #  n= 10
 
-name = int(input("Enter you age")
-print(type(name))
+age = int(input("Enter you age"))
+print(type(age))
+
+name = "divyarth"
+email ="example@email.com"  
+tup= (10,30,40,50,60)
+
+print(tup)
