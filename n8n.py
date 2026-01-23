@@ -10,7 +10,7 @@ for x in nums:
         seen.add(x)
 
 print("Original:", nums)
-print("Without duplicates:" unique_num)
+print("Without duplicates:" unique_num
 =======
 
 >>>>>>> 50e668b68945b99675ce4890d67ca4928a39ac5a
