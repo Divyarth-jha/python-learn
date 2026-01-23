@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nums = [1, 2, 2, 3, 1, 4, 3]
 
 unique_nums = []
@@ -10,3 +11,6 @@ for x in nums:
 
 print("Original:", nums)
 print("Without duplicates:" unique_nums)
+=======
+
+>>>>>>> 50e668b68945b99675ce4890d67ca4928a39ac5a
