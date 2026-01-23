@@ -4,4 +4,9 @@ marks.sort( reverse =True)
 print((marks))
 
 str="pana Colleges"
-print(len(str)
+print(len(str))
+
+name = "divyarth"
+age = 22
+
+print(name + age)
