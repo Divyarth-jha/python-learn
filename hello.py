@@ -23,5 +23,5 @@
 #  num = num + 10
 #  n= 10
 
-name = int(input("Enter you age"))
+name = int(input("Enter you age")
 print(type(name))
