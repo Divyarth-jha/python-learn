@@ -1,8 +1,5 @@
-marks =[ 12, 34, 45, 56, 67, 98, 96]
-marks.append(67)
-marks.sort( reverse =True)
-print((marks))
 
+<<<<<<< HEAD
 str="pana Colleges"
 print(len(str))
 
@@ -10,3 +7,5 @@ name = "divyarth"
 age = 22
 
 print(name + age)
+=======
+>>>>>>> 5da6a71321e4656f5c6dd751788c8cb7c82bd1e7
